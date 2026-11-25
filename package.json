@@ -21,7 +21,7 @@
     "@babel/eslint-parser": "^7.15.0",
     "@babel/plugin-proposal-class-properties": "^7.14.5",
     "@babel/plugin-transform-runtime": "^7.15.0",
-    "@babel/register": "^7.15.3",
+    "@babel/register": "^8.1.2",
     "@babel/runtime": "^7.15.3",
     "@open-sauced/semantic-release-conventional-config": "^1.2.0",
     "@storybook/addon-essentials": "^6.3.7",
